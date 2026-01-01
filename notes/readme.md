@@ -1,15 +1,17 @@
-# LANGUAGE OF BITS
+# Language of Bits — Notes
 
-''' The language of 0 and 1 which is understanded by Computer itself is called as **LANGUAGE OF BITS**  '''
+This folder contains short notes and a glossary to help you understand how computers represent and manipulate information at the bit level.
 
-___
+Why read these notes?
+- Bits are the smallest unit of information in computing. Understanding them clarifies how higher-level abstractions (numbers, text, images) are actually stored and processed.
+- These notes are intentionally short and practical — ideal for quick reference or revision.
 
-#### Why do we need to learn Language of Bits ?
+Suggested order
+1. Read `notes/terms_definition.md` to learn the key terms and their meanings.
+2. Return to examples or images in `assets/` to visualize concepts.
 
-As computer understand only the language of 0 and 1. It is important for each programmer to understand how computer really works internally before proceding to learn any HIGH LEVEL LANGUAGE. That's why each programmer is advised to learn language of bits.
+How to contribute
+- If you find an explanation that can be improved, submit a pull request following CONTRIBUTING.md.
 
-***
-
-#### Will learning Language of BITS help you to solve real world problems ?
-
-The answer is no. It will not directly help you anywhere but it will give you a vision, a thinking that how our program is running inside computer. Although language of bits play a major role in memory management of a program. So, its good to learn language of bits briefly.
+Learning outcome
+- After reading, you should be comfortable with binary notation, basic logic gates, simple encodings (ASCII/UTF-8), and common bitwise operations.
