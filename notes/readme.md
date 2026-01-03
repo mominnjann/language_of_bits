@@ -14,4 +14,6 @@ How to contribute
 - If you find an explanation that can be improved, submit a pull request following CONTRIBUTING.md.
 
 Learning outcome
-- After reading, you should be comfortable with binary notation, basic logic gates, simple encodings (ASCII/UTF-8), and common bitwise operations.
+- After reading, you should be comfortable with binary notation, basic logic gates, simple encodings (ASCII/UTF-8), and common bitwise operations. 
+
+Your contribution towards Repository will be highly encouraged
